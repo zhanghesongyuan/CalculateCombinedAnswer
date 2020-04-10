@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Calculate Combined Answer
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/CalculateCombinedAnswer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This is an application to help you improve your arithmetic ability. You can customize some numbers for practice. Each time you perform calculation, you need to select a number from the answer box on the left as the ten digits of the answer, and a number from the answer box on the right as the one digit of the answer, so that the final answer after the combination of the two numbers is the same as the answer of the equation filled in above. You can also choose different difficulty levels to help you better practice and improve your arithmetic skills.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-# Header 1
-## Header 2
-### Header 3
+We will answer them for you in the first time.
 
-- Bulleted
-- List
+### Address: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/CalculateCombinedAnswer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
